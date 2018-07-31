@@ -1,4 +1,4 @@
-#bgimg-1, #bgimg-2, #bgimg-3 {
+#bgimg-1, #bgimg-2, #bgimg-3, #news, div.background {
   position: relative;
   background-attachment: fixed;
   background-position: center;
@@ -738,7 +738,9 @@ img.hover-shadow {
 
 
 /*NANCY DONATIONS*/
-
+.nancybackground{
+      background-image: url("nancy_back.jpg");
+                 }
 
 h2
 { font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman",
