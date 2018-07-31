@@ -589,10 +589,8 @@ p {
 }
 
 .factstatcolumn {
-      float: center;
-      width: 50%;
-      margin-top: 6px;
-      padding: 70px;
+      margin: 0 auto;
+      width: 80em;
   }
 * {box-sizing: border-box}
 body {font-family: Verdana, sans-serif; margin:0}
