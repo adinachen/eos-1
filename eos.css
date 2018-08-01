@@ -588,7 +588,7 @@ p {
 
 }
 
-.submitRow{
+.submitRow:after {
   content: "";
   display: table;
   clear: both;
