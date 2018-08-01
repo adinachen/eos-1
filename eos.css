@@ -589,11 +589,19 @@ p {
 }
 
 .factstatcolumn {
-      float: center;
-      width: 50%;
-      margin-top: 6px;
-      padding: 20px;
-  }
+  float: center;
+  width: 50%;
+  margin-top: 6px;
+  padding: 20px;
+}
+
+.column:after {
+  float: center;
+  width: 50%;
+  margin-top: 6px;
+  padding: 20px;
+}
+  
 * {box-sizing: border-box}
 body {font-family: Verdana, sans-serif; margin:0}
 .factSlides {display: none}
