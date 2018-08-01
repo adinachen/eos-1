@@ -7,7 +7,7 @@
 }
 
 #buildingstats{
-  background-image: "buildingstats.jpg" 
+  background-image: url("buildingstats.jpg"); 
 }
 
 #bgimg-1 {
