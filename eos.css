@@ -588,14 +588,13 @@ p {
 
 }
 
-.factstatcolumn {
-  float: center;
-  width: 50%;
-  margin-top: 6px;
-  padding: 20px;
+.submitRow{
+  content: "";
+  display: table;
+  clear: both;
 }
-
-.factstatcolumn:after {
+  
+.factstatcolumn {
   float: center;
   width: 50%;
   margin-top: 6px;
