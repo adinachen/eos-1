@@ -587,19 +587,6 @@ p {
   background-image: url("stats.png");
 
 }
-
-.submitRow:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-  
-.factstatcolumn {
-  float: center;
-  width: 50%;
-  margin-top: 6px;
-  padding: 20px;
-}
   
 * {box-sizing: border-box}
 body {font-family: Verdana, sans-serif; margin:0}
