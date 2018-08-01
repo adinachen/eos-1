@@ -1,9 +1,13 @@
-#bgimg-1, #bgimg-2, #bgimg-3, #news, div.background, .nancybackground {
+#bgimg-1, #bgimg-2, #bgimg-3, #news, #buildingstats,div.background, .nancybackground 
   position: relative;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+#buildingstats{
+  background-image: "buildingstats.jpg" 
 }
 
 #bgimg-1 {
