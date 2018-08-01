@@ -1,4 +1,4 @@
-#bgimg-1, #bgimg-2, #bgimg-3, #news, #buildingstats,div.background, .nancybackground 
+#bgimg-1, #bgimg-2, #bgimg-3, #news, ,div.background, .nancybackground 
   position: relative;
   background-attachment: fixed;
   background-position: center;
@@ -6,9 +6,7 @@
   background-size: cover;
 }
 
-#buildingstats{
-  background-image: url("buildingstats.jpg"); 
-}
+
 
 #bgimg-1 {
   background-image: url("sky.jpg");
